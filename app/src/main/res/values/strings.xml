@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LongArifmetic</string>
+    <string name="calculator">Вычислитель</string>
+    <string name="notification_title">Результат вычисления</string>
+</resources>
